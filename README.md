@@ -26,4 +26,4 @@ A collection of links to relevant resources for the modern designer and develope
 * [Thinkertoys (Michael Michalko)](http://www.amazon.com/Thinkertoys-Handbook-Creative-Thinking-Techniques-Edition/dp/1580087736?tag=fastcomp08-20)
 * [Design Basics (S. Pentak and A. Lauer)](http://www.amazon.com/Design-Basics-Stephen-Pentak/dp/1285858220?tag=fastcomp08-20)
 * [The Creative Habit: Learn It and Use It for Life (Twyla Tharp with Mark Reiter)](http://www.amazon.com/Creative-Habit-Learn-Use-Life/dp/0743235274?tag=fastcomp08-20)
-* [Visual Notes for Architects and Designers (Norman Crowe and Paul Laseau)])(http://www.amazon.com/Visual-Notes-Architects-Designers-Norman/dp/047090853X?tag=fastcomp08-20)
+* [Visual Notes for Architects and Designers (Norman Crowe and Paul Laseau)](http://www.amazon.com/Visual-Notes-Architects-Designers-Norman/dp/047090853X?tag=fastcomp08-20)

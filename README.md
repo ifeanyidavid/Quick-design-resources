@@ -3,14 +3,14 @@ A collection of links to relevant resources for the modern designer and develope
 
 # Table of contents
 * [Books](#Books)
-* [Video Tutorials](#Video tutorials)
+* [Video Tutorials](#Video-Tutorials)
 * [Documentaries](#Documentaries)
 * [Inspiration](#Inspiration)
 * [People](#People)
 * [Guidelines](#Guidelines)
-* Typography
-* Guidelines
-* Color
-* User Experience Design
+* [Typography](#Typography)
+* [Guidelines](#Guidelines)
+* [Color](#Color)
+* [User Experience Design](#User-Experience-Design)
 
-#Books
+# Books

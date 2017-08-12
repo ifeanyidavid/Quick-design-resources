@@ -12,5 +12,7 @@ A collection of links to relevant resources for the modern designer and develope
 * [Guidelines](#Guidelines)
 * [Color](#Color)
 * [User Experience Design](#User-Experience-Design)
+* [Utilities](#Utilities)
+* [Design Tool](#Design-Tools)
 
 # Books

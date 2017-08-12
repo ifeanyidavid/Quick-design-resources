@@ -13,7 +13,7 @@ A collection of links to relevant resources for the modern designer and develope
 * [Color](#Color)
 * [User Research](#User-Research)
 * [Utilities](#Utilities)
-* [Design Tool](#Design-Tools)
+* [Design Tools](#Design-Tools)
 * [Blogs](#Blogs)
 * [Iconography](#Iconography)
 * [Stock Photos](#Stock-Photos)
@@ -27,3 +27,27 @@ A collection of links to relevant resources for the modern designer and develope
 * [Design Basics (S. Pentak and A. Lauer)](http://www.amazon.com/Design-Basics-Stephen-Pentak/dp/1285858220?tag=fastcomp08-20)
 * [The Creative Habit: Learn It and Use It for Life (Twyla Tharp with Mark Reiter)](http://www.amazon.com/Creative-Habit-Learn-Use-Life/dp/0743235274?tag=fastcomp08-20)
 * [Visual Notes for Architects and Designers (Norman Crowe and Paul Laseau)](http://www.amazon.com/Visual-Notes-Architects-Designers-Norman/dp/047090853X?tag=fastcomp08-20)
+
+# Video Tutorials
+
+# Documentaries
+
+# Inspiration
+
+# People
+
+# Guidelines
+
+# Color
+
+# User Research
+
+# Design Tools
+
+# Blogs
+
+# Iconography
+
+# Stock Photos
+
+# Practice
